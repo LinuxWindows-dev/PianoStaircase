@@ -1,6 +1,6 @@
 # Meeting Notes October 31st, 2025
 
-## Key Decisions
+## Discussion
 
 - Needed range: 67 inches (1.7018 meters)
 
@@ -44,5 +44,5 @@
   - Con: High voltage requirements (works with power workaround)
   - Pro: Enough range
 
-## Actions Taken
-- :earned we do not have the supplies to make a working prototype
+## Key Decisions
+- Learned we do not have the supplies to make a working prototype
