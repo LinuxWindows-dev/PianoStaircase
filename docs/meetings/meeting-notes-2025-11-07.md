@@ -45,4 +45,4 @@
   - Pro: Enough range
 
 ## Key Decisions
-- Learned we do not have the supplies to make a working prototype
+- Learned we do not have the supplies in house to make a working prototype
