@@ -4,11 +4,11 @@
 
 - Needed range: 67 inches (1.7018 meters)
 
-Pi's: 
+**Pi's:**
 - Pi 0: 5 volt limitation (without work around)
-- Pi 4: bigger (heat issues), more expensive
+- Pi 4: bigger (heat issues), more expensive (dont have the budget for each step to have a Pi 4)
 
-**Sensors we have in house**
+**Sensors we have in house:**
 
 - Ultrasonic
   - Con: Interference issues, doesn't work with 0
@@ -34,7 +34,7 @@ Pi's:
   - Con: Not enough range, also analog
   - Pro: N/A not enough range to consider
 
-**Not in house**
+**Not in house:**
 
 - Radar/microwave sensors
   - Con: Requires to much power
