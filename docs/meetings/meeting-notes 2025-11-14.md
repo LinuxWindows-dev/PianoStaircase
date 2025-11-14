@@ -1,0 +1,104 @@
+- **HYDRO-POWRE**: install a large water tank at the top of the Russ Atrium and use gravity to make water go down.
+	- This is the *real* reason we have a water level sensor.
+	- Totally safe.  There's no risks at all.
+	- How do we fill the water tank?  Where does the water go after we're done?  This is outside our scope.  Future problems for *other* people.
+	 - **This gives the mechanical engineers something useful to do.**
+	 - **Alternative: *RBMK NUCLEAR POWER PLANT***
+ - **Microcontroller**:
+	 - Raspberry Pi Zero
+		 - Pros:
+			 - Full OS
+			 - REAL sound playback: SCREAMING GOATS
+			 - Affordable
+		 - Cons:
+			 - No analog pins
+			 - Full OS will use most of the RAM
+	 - Raspberry Pi Pico Salsa
+		 - Pros:
+			 - Very cheap
+			 - Like an Arduino Uno but not Arduino Uno
+			 - Probably does analog inputs
+		 - Cons:
+			 - Not a full OS
+			 - No *real* sound playback
+			 - Might actually run Matlab (not really)
+			 - Limited processing powre
+			 - Very limited sound playback
+	 - Arduino Uno
+		 - Pros:
+			 - Well supported
+			 - Easy to work with
+			 - Affordable
+			 - Analog Inputs
+		 - Cons:
+			 - No OS
+			 - Airaehbehbellax will try to run Matlab on the Arduino Uno.
+				 - Actually, this is a pro.  I *need* to see this.  
+			 - Limited processing power
+			 - Very limited sound generation
+				 - Pro: this would sound horrible
+				 - Con: no screaming goat sounds
+	 - ESP32
+		 - Pros:
+			 - Nobody knows how to use this.
+			 - WiFi/BT, so we can flood the atrium with 44 WiFi signals
+		 - Cons:
+			 - Nobody knows how to use this.
+	 - Raspberry Pi 4
+		 - Pros:
+			 - Full featured SOC
+			 - Several on shelf
+			 - Plenty of RAM, processing
+			 - Might actually run Matlab (for realsy)
+		 - Cons:
+			 - Expensive
+			 - Big
+			 - No Analog pins
+ - **Sensors**:
+	 - Ultrasonic
+		 - Pros:
+			 - Full length of stair
+			 - Affordable
+		 - Cons:
+			 - Requires analog input
+			 - Crosstalk is real.  We'd need to syncronize the sensors somehow to prevent this.
+	 - ToF
+		 - Pros:
+			 - Digital input
+			 - Does not reach full length of step
+				 - This means people can choose to not sound cool going up the steps.
+		 - Cons:
+			 - More expensive
+			 - Does not reach full length of step
+	 - Infrared Trip
+		 - Pros:
+			 - Cheap
+		 - Cons:
+			 - Limited range
+			 - Requires two sensors on two sides
+			 - Possible interference from irritable sunlight
+	 - Trip Wire
+		 - Pros:
+			 - Fewer Engineering Students
+				 - Less competition for future jobs.
+				 - Less people in the world.
+			 - Easy to implement!
+			 - People make sounds when they trip.
+				 - COLA vocal students are better for this.  This was Airaehbehbellax's idea.
+				 - Or Business Students.  This was Andrew's idea.
+		 - Cons:
+			 - Fewer Engineering Students
+				 - Someone has to give money to the university.
+ - *Octopi, Cuttlefish, Squid all have multiple hearts.*
+ - *SOME EEs are crazy people who like Integrals.*
+ - **We had genuine, productive, ongoing discussion of crayon consuption.**
+	 - Pros:
+		- Discussion on favorite colors to eat
+	 - Cons:
+		 - We don't have any crayons
+- *Airaehbehbellax suggested cutting the cable on the elevator in order to force CS students to take the stairs.*
+	- Ien started this conversation by suggesting only CS students don't take the stairs.
+	- This helps our future doctors find motivation and income.
+	- Airaehbehbellax also recommended adding cracking sound playback in the elevator.  And ghost sounds.
+- **Why did we start discussing burying people alive and pretend we're not serial killers?**
+- **Let's have kids so we have organ donors.**  *This is our source of funding.*  Airaehbehbellax said this.
